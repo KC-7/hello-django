@@ -1,5 +1,8 @@
 # Django Todo App
+
 This is a Django-based todo app that allows users to add, edit, delete, and toggle items on their to-do list (CRUD). It has been built using Django version 3.2.3.
+
+**Live Link:** [kc-django-todo-app.herokuapp.com](https://kc-django-todo-app.herokuapp.com/)
 
 # Table of Contents
 
