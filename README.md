@@ -4,34 +4,37 @@ This is a Django-based todo app that allows users to add, edit, delete, and togg
 
 **Live Link:** [kc-django-todo-app.herokuapp.com](https://kc-django-todo-app.herokuapp.com/)
 
-# Table of Contents
 
-- [Main Files](#main-files)
-  * [manage.py](#managepy)
-  * [views.py](#viewspy)
-  * [models.py](#modelspy)
-  * [forms.py](#formspy)
-  * [admin.py](#adminpy)
-  * [todo_list.html](#todo-listhtml)
-  * [settings.py](#settingspy)
-  * [urls.py:](#urlspy-)
-  * [apps.py](#appspy)
-  * [todo_list.html](#todo-listhtml-1)
-  * [edit_item.html](#edit-itemhtml)
-  * [add_item.html](#add-itemhtml)
-- [Additional Files](#additional-files)
-  * [requirements.txt](#requirementstxt)
-  * [env.py](#envpy)
-  * [.gitignore](#gitignore)
-  * [Procfile](#procfile)
-- [Python Testing Files](#python-testing-files)
-  * [test_views.py](#test-viewspy)
-  * [test_models.py](#test-modelspy)
-  * [test_forms.py](#test-formspy)
-  * [Testing Coverage Report: 100%](#testing-coverage-report--100-)
-- [Hosting and Deployment](#hosting-and-deployment)
-- [Gitpod Reminders](#gitpod-reminders)
-- [Credits](#credits)
+## README Contents
+
+| [Main Files](#main-files)                              |                                                             |
+|--------------------------------------------------------|-------------------------------------------------------------|
+| [manage.py](#managepy)                                 | [urls.py](#urlspy-)                                         |
+| [views.py](#viewspy)                                   | [apps.py](#appspy)                                          |
+| [models.py](#modelspy)                                 | [todo_list.html](#todo-listhtml-1)                          |
+| [forms.py](#formspy)                                   | [edit_item.html](#edit-itemhtml)                            |
+| [admin.py](#adminpy)                                   | [add_item.html](#add-itemhtml)                              |
+| [todo_list.html](#todo-listhtml)                       | [settings.py](#settingspy)                                  |
+
+| [Additional Files](#additional-files)                  |                                                             |
+|--------------------------------------------------------|-------------------------------------------------------------|
+| [requirements.txt](#requirementstxt)                   | [.gitignore](#gitignore)                                    |
+| [env.py](#envpy)                                       | [Procfile](#procfile)                                       |
+
+| [Python Testing Files](#python-testing-files)          |                                                             |
+|--------------------------------------------------------|-------------------------------------------------------------|
+| [test_views.py](#test-viewspy)                         | [test_forms.py](#test-formspy)                              |
+| [test_models.py](#test-modelspy)                       | [Testing Coverage Report: 100%](#testing-coverage-report--100-)|
+
+| [Hosting and Deployment](#hosting-and-deployment)      |                                                             |
+|--------------------------------------------------------|-------------------------------------------------------------|
+
+| [Gitpod Reminders](#gitpod-reminders)                  |                                                             |
+|--------------------------------------------------------|-------------------------------------------------------------|
+
+| [Credits](#credits)                                    |                                                             |
+|--------------------------------------------------------|-------------------------------------------------------------|
+
 
 # Main Files
 
