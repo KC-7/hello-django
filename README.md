@@ -26,14 +26,14 @@ This is a Django-based todo app that allows users to add, edit, delete, and togg
 | [test_views.py](#test-viewspy)                         | [test_forms.py](#test-formspy)                              |
 | [test_models.py](#test-modelspy)                       | [Testing Coverage Report: 100%](#testing-coverage-report--100-)|
 
-| [Hosting and Deployment](#hosting-and-deployment)      |                                                             |
-|--------------------------------------------------------|-------------------------------------------------------------|
+| [Hosting and Deployment](#hosting-and-deployment)      |
+|--------------------------------------------------------|
 
-| [Gitpod Reminders](#gitpod-reminders)                  |                                                             |
-|--------------------------------------------------------|-------------------------------------------------------------|
+| [Gitpod Reminders](#gitpod-reminders)                  |
+|--------------------------------------------------------|
 
-| [Credits](#credits)                                    |                                                             |
-|--------------------------------------------------------|-------------------------------------------------------------|
+| [Credits](#credits)                                    |
+|--------------------------------------------------------|
 
 
 # Main Files
